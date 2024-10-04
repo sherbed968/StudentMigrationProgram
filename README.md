@@ -1,4 +1,4 @@
-# StudentInformationProgram
+# StudentMigrationProgram
 
 Developed using C++
 
